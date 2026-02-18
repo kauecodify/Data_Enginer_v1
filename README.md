@@ -10,7 +10,7 @@
 
 **Laboratório Analítico Empresarial para Análise de Dados**
 
-[Funcionalidades](#-funcionalidades) • [Instalação](#-instalação) • [Uso](#-uso) • [Screenshots](#-screenshots)
+[Funcionalidades](#-funcionalidades) • [Instalação](#-instalação) • [Uso](#-uso)
 
 </div>
 
